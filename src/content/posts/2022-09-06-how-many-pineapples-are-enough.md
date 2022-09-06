@@ -2,7 +2,7 @@
 template: blog-post
 title: Pineapples the worlds friend
 slug: /pineapples
-date: 2020-05-11 08:40
+date: 2022-09-06 18:26
 description: Post about pineapples
 featuredImage: /assets/pineapples-unsplash.jpg
 ---
